@@ -92,7 +92,7 @@ plugins:
     options: {}
     order: 45
   - source: "@quartz-community/alias-redirects"
-    enabled: true
+    enabled: false
   - source: "@quartz-community/content-index"
     enabled: true
     options:
