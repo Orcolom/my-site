@@ -1,12 +1,9 @@
 ---
 title: "JAMZS"
-date: 2019-01-26T00:00:00+02:00
+date: 2019-01-26
 description : "Move your hips"
-
 tags:
-  - Unity
-  - csharp
-  - JAMZS
+  - prototype
 ---
 
 ## Trailer

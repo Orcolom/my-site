@@ -1,17 +1,12 @@
 ---
 title : "Hatchoo!"
 description : "What happens if you sneeze in modern museum?"
-date: 2017-07-06T12:00:00+01:00
-
-tags :
-  - Unity
-  - csharp
-  - game jam
-  - Brains Eden
-  - puzzle
+date: 2017-07-06
+tags:
+  - jam
 ---
 
-![Short gif of the gameplay](./hatchoo.gif)
+![[hatchoo.gif|gameplay]]
 
 ---
 

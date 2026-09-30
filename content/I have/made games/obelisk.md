@@ -3,19 +3,12 @@ title : "Obelisk"
 description : "Reinventing the sliding puzzle."
 banner: "/public/img/Obelisk/banner.gif"
 date: 2017-04-25T12:00:00+01:00
-
-weight : 2
-featured: true
-
 tags:
-  - Unity
-  - csharp
-  - game jam
-  - Ludum Dare
-  - puzzle
+  - jam
 ---
 
 ![logo](obelisk_logo.png)
+![characters](obelisk_characters.gif)
 
 ---
 

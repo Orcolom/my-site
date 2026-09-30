@@ -1,15 +1,14 @@
 ---
 title: Resume
 ---
----
 
 # Work
-## Triangle Factory
+## [[Triangle Factory]]
 
 ### As Gameplay Programmer, System Designer, Producer
 > 2019 - *
 
-- Helped launch 2 games on multiple VR platforms and regions.
+- Helped launch 3 games on multiple VR platforms and regions.
 - Build multi-project multi-platform build system for Unity.
 - Build out and executed year long production plan for a live service game.
 - Implemented new gameplay, server, and customization features in a live game.
